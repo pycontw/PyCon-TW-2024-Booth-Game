@@ -4,13 +4,6 @@ import pouchy
 from home import your_puzzle
 
 
-def newbie_task():
-    if pouchy.download_Opass():
-        return True
-    else:
-        return False
-
-
 def personal_task():
     with open("graffiti_wall.txt", "w") as f:
         message = "Anything you want to say about PyCon TW."
@@ -46,7 +39,7 @@ def team_task(your_puzzle):
 
 
 def booth_task():
-    sponsor_booths = ["PSF", "E.SUN Bank", "Reuven Lerner"]
+    sponsor_booths = ["PSF", "E.SUN Bank", "REUVEN LERNER", "Tenlong bookstore"]
     community_booths = ["OCF", "COSCUP", "MOPCON", "Good Ideas Studio"]
     unfinished_booths = sponsor_booths + community_booths
 
@@ -63,8 +56,6 @@ def booth_task():
 
 def task():
     passed_count = 0
-    if newbie_task():
-        passed_count += 1
     if personal_task():
         passed_count += 1
     if team_task(your_puzzle):
@@ -72,8 +63,8 @@ def task():
     if booth_task():
         passed_count += 1
 
-    if passed_count == 4:
-        return "Congratulations! You've earned a chance to win big prizes!"
+    if passed_count == 3:
+        return "Congratulations, you’ve qualified for the Grand Prize raffle!"
 
 
 if __name__ == "_main_":
