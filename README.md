@@ -2,7 +2,7 @@
 
 Hello，歡迎來到 PyCon TW 2024，這裡是大地遊戲活動。相信聰明的你一定猜到為什麼你會在 GitHub 的畫面
 
-沒錯！大地遊戲的題目就藏在程式內 ➡️ [woof_kao.py](https://github.com/tingnli6603/PyCon-TW-2024-Booth-Game/blob/main/woof_kao.py)
+沒錯！大地遊戲的題目就藏在程式內 ➡️ [woof_kao.py](https://github.com/pycontw/PyCon-TW-2024-Booth-Game/blob/main/woof_kao.py)
 
 🚀 只要簡單的三個步驟就可以完成大地遊戲：
 1. 下載 OPass App
@@ -28,11 +28,10 @@ Hello，歡迎來到 PyCon TW 2024，這裡是大地遊戲活動。相信聰明�
     - PyCon TW 2025 一般票五折（4 位）
 
 ****
-****
 
 Hello, welcome to PyCon TW 2024. This is the booth game event. I'm sure a clever person like you has already guessed why you're seeing the GitHub screen.
 
-That's right! The challenges of the booth game are hidden within the code. ➡️ [woof_kao.py](https://github.com/tingnli6603/PyCon-TW-2024-Booth-Game/blob/main/woof_kao.py)
+That's right! The challenges of the booth game are hidden within the code. ➡️ [woof_kao.py](https://github.com/pycontw/PyCon-TW-2024-Booth-Game/blob/main/woof_kao.py)
 
 🚀 You can complete the booth game in just three simple steps:
 1. Download the OPass App
