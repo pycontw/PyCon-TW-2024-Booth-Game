@@ -2,7 +2,7 @@
 
 Hello，歡迎來到 PyCon TW 2024，這裡是大地遊戲活動。相信聰明的你一定猜到為什麼你會在 github 的畫面
 
-沒錯！大地遊戲的題目就藏在程式內 ➡️ [woof_kao.py](https://github.com/tingnli6603/PyCon-TW-2024-Booth-Game/blob/main/woof_kao.py)
+沒錯！大地遊戲的題目就藏在程式內 ➡️ [woof_kao.py](https://github.com/pycontw/PyCon-TW-2024-Booth-Game/blob/main/woof_kao.py)
 
 只要簡單的三個步驟就可以完成大地遊戲：
 1. 下載 OPass App（完成即贈送今年大會紀念品）
