@@ -67,5 +67,5 @@ def task():
         return "Congratulations, you’ve qualified for the Grand Prize raffle!"
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     task()
